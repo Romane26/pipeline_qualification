@@ -1,0 +1,2 @@
+BootStrap: docker
+From: ghcr.io/uclahs-cds/rtg-tools:3.12.1 
